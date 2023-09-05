@@ -2,7 +2,7 @@
 
 Верстка данного проекта выполнена при помощи Bootstrap.
 
-Ссылка на проект – https://3-d-design-services.vercel.app/
+Ссылка на проект – https://3-d-design-interior.vercel.app/
 
 На лендинге реализован следующий функционал:
 
